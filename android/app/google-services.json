@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949755465966",
+    "firebase_url": "https://quizipl20.firebaseio.com",
+    "project_id": "quizipl20",
+    "storage_bucket": "quizipl20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949755465966:android:883b3f5698d837431123ff",
+        "android_client_info": {
+          "package_name": "ipl.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949755465966-eulqcckp4iskpkvgp58m6qdck2p0e65j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ipl.quiz",
+            "certificate_hash": "9691f6fc16d63bb15098b245ef648258d433fc9a"
+          }
+        },
+        {
+          "client_id": "949755465966-13q2rt2ianj03v9mg5pgdqctomnibbgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAarumpqS03kkBx_nglGa3FDXFxv9ATxPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949755465966-13q2rt2ianj03v9mg5pgdqctomnibbgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
